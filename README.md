@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/akashp-code/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akashp-code/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/akashp-code/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/akashp-code/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/akashp-code/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akashp-code/leetcode_solutions/tree/master/0733-flood-fill) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akashp-code/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/akashp-code/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akashp-code/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/akashp-code/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/akashp-code/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/akashp-code/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akashp-code/leetcode_solutions/tree/master/0733-flood-fill) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akashp-code/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -153,9 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/akashp-code/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/akashp-code/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/akashp-code/leetcode_solutions/tree/master/0695-max-area-of-island) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akashp-code/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/akashp-code/leetcode_solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
