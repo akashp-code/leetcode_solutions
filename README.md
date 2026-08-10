@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akashp-code/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/akashp-code/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akashp-code/leetcode_solutions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/akashp-code/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akashp-code/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/akashp-code/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akashp-code/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/akashp-code/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/akashp-code/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akashp-code/leetcode_solutions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/akashp-code/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akashp-code/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Linked List
@@ -181,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/akashp-code/leetcode_solutions/tree/master/0547-number-of-provinces) |
+## String
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
