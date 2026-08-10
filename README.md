@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/akashp-code/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akashp-code/leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/akashp-code/leetcode_solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/akashp-code/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/akashp-code/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akashp-code/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/akashp-code/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/akashp-code/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akashp-code/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/akashp-code/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
 ## Divide and Conquer
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/akashp-code/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/akashp-code/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
