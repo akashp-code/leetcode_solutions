@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/akashp-code/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/akashp-code/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashp-code/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/akashp-code/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/akashp-code/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashp-code/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,12 +208,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/akashp-code/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashp-code/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashp-code/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashp-code/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akashp-code/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashp-code/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
