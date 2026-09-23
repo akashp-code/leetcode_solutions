@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akashp-code/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akashp-code/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/akashp-code/leetcode_solutions/tree/master/0069-sqrtx) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akashp-code/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/akashp-code/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashp-code/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashp-code/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akashp-code/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashp-code/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akashp-code/leetcode_solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
