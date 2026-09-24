@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/akashp-code/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashp-code/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akashp-code/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/akashp-code/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/akashp-code/leetcode_solutions/tree/master/0069-sqrtx) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akashp-code/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akashp-code/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akashp-code/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
