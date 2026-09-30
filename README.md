@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akashp-code/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/akashp-code/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/akashp-code/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akashp-code/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Database
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akashp-code/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/akashp-code/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akashp-code/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akashp-code/leetcode_solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akashp-code/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akashp-code/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
