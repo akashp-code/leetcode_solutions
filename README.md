@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akashp-code/leetcode_solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akashp-code/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akashp-code/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akashp-code/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akashp-code/leetcode_solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akashp-code/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akashp-code/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akashp-code/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akashp-code/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bidirectional Search
 |  |
 | ------- |
