@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/akashp-code/leetcode_solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/akashp-code/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashp-code/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/akashp-code/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akashp-code/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akashp-code/leetcode_solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akashp-code/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
